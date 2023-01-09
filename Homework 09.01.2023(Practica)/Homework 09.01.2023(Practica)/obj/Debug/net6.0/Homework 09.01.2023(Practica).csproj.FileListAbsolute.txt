@@ -1,0 +1,20 @@
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\Homework 09.01.2023(Practica)\obj\Debug\net6.0\Homework 09.01.2023(Practica).csproj.AssemblyReference.cache
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\Homework 09.01.2023(Practica)\obj\Debug\net6.0\Homework 09.01.2023(Practica).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\Homework 09.01.2023(Practica)\obj\Debug\net6.0\Homework 09.01.2023(Practica).AssemblyInfoInputs.cache
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\Homework 09.01.2023(Practica)\obj\Debug\net6.0\Homework 09.01.2023(Practica).AssemblyInfo.cs
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\Homework 09.01.2023(Practica)\obj\Debug\net6.0\Homework 09.01.2023(Practica).csproj.CoreCompileInputs.cache
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\Homework 09.01.2023(Practica)\bin\Debug\net6.0\Homework 09.01.2023(Practica).exe
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\Homework 09.01.2023(Practica)\bin\Debug\net6.0\Homework 09.01.2023(Practica).deps.json
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\Homework 09.01.2023(Practica)\bin\Debug\net6.0\Homework 09.01.2023(Practica).runtimeconfig.json
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\Homework 09.01.2023(Practica)\bin\Debug\net6.0\Homework 09.01.2023(Practica).dll
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\Homework 09.01.2023(Practica)\bin\Debug\net6.0\Homework 09.01.2023(Practica).pdb
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\Homework 09.01.2023(Practica)\obj\Debug\net6.0\Homework 09.01.2023(Practica).dll
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\Homework 09.01.2023(Practica)\obj\Debug\net6.0\refint\Homework 09.01.2023(Practica).dll
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\Homework 09.01.2023(Practica)\obj\Debug\net6.0\Homework 09.01.2023(Practica).pdb
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\Homework 09.01.2023(Practica)\obj\Debug\net6.0\Homework 09.01.2023(Practica).genruntimeconfig.cache
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\Homework 09.01.2023(Practica)\obj\Debug\net6.0\ref\Homework 09.01.2023(Practica).dll
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\Homework 09.01.2023(Practica)\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\Homework 09.01.2023(Practica)\bin\Debug\net6.0\ServivesLayer.dll
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\Homework 09.01.2023(Practica)\bin\Debug\net6.0\ServivesLayer.pdb
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\Homework 09.01.2023(Practica)\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\Homework 09.01.2023(Practica)\obj\Debug\net6.0\Homework 09.01.2023(Practica).csproj.CopyComplete

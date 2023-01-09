@@ -1,0 +1,15 @@
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\ServivesLayer\bin\Debug\net6.0\ServivesLayer.deps.json
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\ServivesLayer\bin\Debug\net6.0\ServivesLayer.dll
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\ServivesLayer\bin\Debug\net6.0\ServivesLayer.pdb
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\ServivesLayer\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\ServivesLayer\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\ServivesLayer\obj\Debug\net6.0\ServivesLayer.csproj.AssemblyReference.cache
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\ServivesLayer\obj\Debug\net6.0\ServivesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\ServivesLayer\obj\Debug\net6.0\ServivesLayer.AssemblyInfoInputs.cache
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\ServivesLayer\obj\Debug\net6.0\ServivesLayer.AssemblyInfo.cs
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\ServivesLayer\obj\Debug\net6.0\ServivesLayer.csproj.CoreCompileInputs.cache
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\ServivesLayer\obj\Debug\net6.0\ServivesLayer.csproj.CopyComplete
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\ServivesLayer\obj\Debug\net6.0\ServivesLayer.dll
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\ServivesLayer\obj\Debug\net6.0\refint\ServivesLayer.dll
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\ServivesLayer\obj\Debug\net6.0\ServivesLayer.pdb
+C:\Users\halak\OneDrive\Desktop\Homework 09.01.2023(Practica)\ServivesLayer\obj\Debug\net6.0\ref\ServivesLayer.dll
